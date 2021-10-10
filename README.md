@@ -1,6 +1,13 @@
 ### Hi there I'm [Amine Aouragh](https://www.github.com/AmineAouragh) 👋
 
-.. image:: https://img.shields.io/twitter/url?label=Twitter&style=social&url=AmineAouraghOne   :alt: Twitter URL
+<p align="center">
+  <a href="http://twitter.com/AmineAouraghOne">
+    <img src="https://img.shields.io/twitter/follow/AmineAouraghOne?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/amineaouragh/">
+    <img src="https://img.shields.io/badge/LinkedIn-12K-blue?label=LinkedIn&logo=LinkedIn&style=for-the-badge" />
+  </a>
+</p>
 
 <!--
 **AmineAouragh/AmineAouragh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
