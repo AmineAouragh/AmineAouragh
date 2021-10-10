@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/twitter/follow/AmineAouraghOne?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/amineaouragh/">
-    <img src="https://img.shields.io/badge/LinkedIn-12K-blue?label=LinkedIn&logo=LinkedIn&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-239-blue?label=LinkedIn&logo=LinkedIn&style=for-the-badge" />
   </a>
 </p>
 
