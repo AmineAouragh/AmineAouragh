@@ -1,4 +1,4 @@
-### Hi there I'm @AmineAouragh 👋
+### Hi there I'm [Amine Aouragh](https://www.github.com/AmineAouragh) 👋
 
 .. image:: https://img.shields.io/twitter/url?label=Twitter&style=social&url=AmineAouraghOne   :alt: Twitter URL
 
