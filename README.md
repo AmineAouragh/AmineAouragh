@@ -1,5 +1,7 @@
 ### Hi there I'm Amine Aouragh 👋
 
+https://img.shields.io/twitter/url?style=social&url=AmineAouraghOne
+
 <!--
 **AmineAouragh/AmineAouragh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
