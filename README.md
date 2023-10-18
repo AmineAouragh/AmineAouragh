@@ -1,4 +1,4 @@
-Hi there I'm [Amine Aouragh](https://www.github.com/AmineAouragh) 👋
+Hi, 👋 I'm [Amine Aouragh](https://www.github.com/AmineAouragh) 
 
 ### My favourite programming languages/frameworks to work with (always open to learn a new one coz I am uh... kind of a fast learner):
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
