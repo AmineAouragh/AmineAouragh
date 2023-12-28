@@ -3,7 +3,7 @@ Hi 👋, I'm [Amine](https://www.github.com/AmineAouragh)
 
 I am a full-stack developer specialized in React/Next.js
 
-[GameGiggle](https://gamegiggle.vercel.app) - a video game recommendation platform for gamers <br />
+[GameGiggle](https://gamegiggle.vercel.app) - a video game recommendation platform for gamers <br /><br />
 ![2023-12-24 20_01_10-Window](https://github.com/AmineAouragh/AmineAouragh/assets/71039249/81e30ce4-3831-4652-9fea-c5b11b869cc0)
 
 
