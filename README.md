@@ -1,7 +1,7 @@
 Hi 👋, I'm [Amine](https://www.github.com/AmineAouragh) 
 
 
-I am a fullstack developer specialized in React/Next.js
+I am a full-stack developer specialized in React/Next.js
 
 ### My favorite programming languages/frameworks to work with:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,6 +29,12 @@ I am a fullstack developer specialized in React/Next.js
 <br />
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white) - to obtain certificates you have to pay but hey... don't cry, trust me that most courses there are worth it if you know where to look + a solid side project you built using knowledge and skills you acquired are worth more than any certifications 🤫
 <br />
+
+I am open for collaborations 
+
+Email me at: amine.aouragh.21@gmail.com 
+
+or text me on Telegram @TheAmineAouragh
 
 
 
