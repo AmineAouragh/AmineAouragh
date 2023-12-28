@@ -26,7 +26,6 @@ Hi 👋, I'm [Amine](https://www.github.com/AmineAouragh)
 <br />
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white) - to obtain certificates you have to pay but hey... don't cry, trust me that most courses there are worth it if you know where to look + a solid side project you built using knowledge and skills you acquired are worth more than any certifications 🤫
 <br />
-![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white) - alright listen up, I know this one has absolutely nothing to do with tech but if I wasn't 💘 IN LOVE 💘 with Spanish I wouldn't have included it here 😜 
 
 
 
