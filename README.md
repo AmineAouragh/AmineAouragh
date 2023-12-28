@@ -3,6 +3,9 @@ Hi 👋, I'm [Amine](https://www.github.com/AmineAouragh)
 
 I am a full-stack developer specialized in React/Next.js
 
+GameGiggle - a video game recommendation platform for gamers
+gamegiggle.vercel.app 
+
 ### My favorite programming languages/frameworks to work with:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
